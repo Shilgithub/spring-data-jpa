@@ -9,5 +9,4 @@ class SpringDataJpaExApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
